@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19-JSax8AvXzlfN8qus1yYUQE3KXAZTzf/view](https://drive.google.com/file/d/19-JSax8AvXzlfN8qus1yYUQE3KXAZTzf/view)
 
-- ⚡ Fun fact **I am a fast learner and I want to know everything**
+- ⚡ Fun fact **I am a fast learner and I want to know everything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
