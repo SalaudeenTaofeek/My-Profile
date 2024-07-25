@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taofeek Salaudeen</h1>
-<h3 align="center">A passionate Data Scientist from Nigeria</h3>
+<h3 align="center"> passionate Data Scientist from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salaudeentaofeek&label=Profile%20views&color=0e75b6&style=flat" alt="salaudeentaofeek" /> </p>
 
